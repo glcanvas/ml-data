@@ -1,0 +1,7 @@
+ISIC2018_Task1-2_Training_Input/
+ISIC2018_Task2_Training_GroundTruth_v3/
+classifier_weights/
+gain_weights/
+train.zip
+wget*
+
