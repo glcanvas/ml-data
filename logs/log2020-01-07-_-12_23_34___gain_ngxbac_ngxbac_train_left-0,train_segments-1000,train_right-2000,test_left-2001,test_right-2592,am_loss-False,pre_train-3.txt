@@ -1,0 +1,4 @@
+PRETRAIN=1 Loss_CL=0.04247 Loss_AM=0.05000 Loss_E=12407.24248 Loss_Total=11166.68129 Accuracy_CL=0.05197 
+EXCEPTION
+
+<class 'KeyboardInterrupt'>
