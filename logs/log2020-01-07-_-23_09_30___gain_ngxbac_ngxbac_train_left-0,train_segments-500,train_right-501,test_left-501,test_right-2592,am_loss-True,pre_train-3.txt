@@ -1,0 +1,125 @@
+PRETRAIN=1 Loss_CL=0.03604 Loss_AM=0.01037 Loss_E=12416.96436 Loss_Total=11175.41187 Accuracy_CL=0.02698 
+PRETRAIN=2 Loss_CL=0.03596 Loss_AM=0.01003 Loss_E=12416.96444 Loss_Total=11175.41143 Accuracy_CL=0.02830 
+TRAIN=3 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00631 
+TRAIN=4 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=5 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=6 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=7 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=8 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=9 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=10 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=11 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=12 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=13 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=14 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=15 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=16 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=17 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=18 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=19 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=20 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=21 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=22 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=23 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=24 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=25 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=26 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=27 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=28 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=29 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=30 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=31 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=32 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=33 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=34 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=35 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=36 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=37 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=38 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=39 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=40 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=41 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=42 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=43 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=44 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=45 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=46 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=47 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=48 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=49 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=50 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=51 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=52 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=53 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=54 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=55 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=56 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=57 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=58 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=59 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=60 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=61 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=62 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=63 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=64 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=65 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=66 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=67 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=68 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=69 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=70 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=71 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=72 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=73 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=74 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=75 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=76 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=77 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=78 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=79 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=80 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=81 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=82 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=83 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=84 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=85 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=86 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=87 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=88 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=89 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=90 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=91 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=92 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=93 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=94 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=95 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=96 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
+TRAIN=97 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=98 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=99 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TRAIN=100 Loss_CL=nan Loss_AM=nan Loss_E=nan Loss_Total=nan Accuracy_CL=0.00000 
+TEST Loss_CL=nan Accuracy_CL=0.00000 
