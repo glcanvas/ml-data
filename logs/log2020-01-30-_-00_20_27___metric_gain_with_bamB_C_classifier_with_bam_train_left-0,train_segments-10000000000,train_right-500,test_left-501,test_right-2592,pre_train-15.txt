@@ -1,0 +1,12 @@
+EXCEPTION
+
+<class 'KeyboardInterrupt'>
+Traceback (most recent call last):
+  File "/home/nduginec/ml-diplom/main_classifier_bam.py", line 50, in <module>
+    clf.train(epochs, 4, 4, 10, train_set, test_set)
+  File "/home/nduginec/ml-diplom/classifier.py", line 99, in train
+    optimizer.step()
+  File "/home/nduginec/nduginec_evn3/lib/python3.6/site-packages/torch/optim/adam.py", line 103, in step
+    denom = (exp_avg_sq.sqrt() / math.sqrt(bias_correction2)).add_(group['eps'])
+KeyboardInterrupt
+

@@ -1,3 +1,0 @@
-EXCEPTION
-CUDA error: invalid device ordinal
-<class 'RuntimeError'>
