@@ -1,0 +1,4 @@
+all layers updates weights
+EXCEPTION
+CUDA out of memory. Tried to allocate 124.00 MiB (GPU 3; 10.92 GiB total capacity; 5.13 GiB already allocated; 68.50 MiB free; 207.84 MiB cached)
+<class 'RuntimeError'>
