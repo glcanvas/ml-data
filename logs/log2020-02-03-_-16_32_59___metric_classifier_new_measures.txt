@@ -1,0 +1,4 @@
+TRAIN=1 Loss_CL=0.0580256531 Accuracy_CL_Percent=0.70000 f_1_0=0.08118 f_1_1=0.07692 f_1_2=0.29967 f_1_3=0.31716 f_1_4=0.60392 f_1_global=0.70000 recall_0=0.13750 recall_1=0.07586 recall_2=0.35421 recall_3=0.37118 recall_4=0.59231 recall_global=0.70000 precision_0=0.05759 precision_1=0.07801 precision_2=0.25968 precision_3=0.27687 precision_4=0.61600 precision_global=0.70000 
+EXCEPTION
+
+<class 'KeyboardInterrupt'>

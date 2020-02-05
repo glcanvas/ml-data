@@ -1,0 +1,3 @@
+EXCEPTION
+CUDA out of memory. Tried to allocate 62.00 MiB (GPU 3; 10.92 GiB total capacity; 1.31 GiB already allocated; 60.50 MiB free; 28.56 MiB cached)
+<class 'RuntimeError'>

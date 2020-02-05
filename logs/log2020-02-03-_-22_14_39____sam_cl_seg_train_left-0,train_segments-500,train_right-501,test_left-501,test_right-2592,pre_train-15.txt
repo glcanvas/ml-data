@@ -1,0 +1,187 @@
+PRETRAIN=1 Loss_CL=3.61124 Loss_M=0.00000 Loss_Total=7.22247 Accuracy_CL=0.30700 f_1_0=0.05825 f_1_global=0.61277 recall_0=0.42857 recall_global=0.61277 precision_0=0.03125 precision_global=0.61277 
+PRETRAIN=2 Loss_CL=0.31330 Loss_M=0.00000 Loss_Total=0.62660 Accuracy_CL=0.95800 f_1_0=0.00000 f_1_global=0.91617 recall_0=0.00000 recall_global=0.91617 precision_0=0.00000 precision_global=0.91617 
+PRETRAIN=3 Loss_CL=0.11317 Loss_M=0.00000 Loss_Total=0.22634 Accuracy_CL=0.97500 f_1_0=0.00000 f_1_global=0.95010 recall_0=0.00000 recall_global=0.95010 precision_0=0.00000 precision_global=0.95010 
+PRETRAIN=4 Loss_CL=0.35419 Loss_M=0.00000 Loss_Total=0.70838 Accuracy_CL=0.97700 f_1_0=0.00000 f_1_global=0.95409 recall_0=0.00000 recall_global=0.95409 precision_0=0.00000 precision_global=0.95409 
+TEST Loss_CL=0.31898 Accuracy_CL=0.94238 f_1_0=0.01626 f_1_global=0.94213 recall_0=0.01163 recall_global=0.94213 precision_0=0.02703 precision_global=0.94213 
+PRETRAIN=5 Loss_CL=0.09332 Loss_M=0.00000 Loss_Total=0.18663 Accuracy_CL=0.97900 f_1_0=0.08696 f_1_global=0.95808 recall_0=0.07143 recall_global=0.95808 precision_0=0.11111 precision_global=0.95808 
+PRETRAIN=6 Loss_CL=0.07180 Loss_M=0.00000 Loss_Total=0.14361 Accuracy_CL=0.98000 f_1_0=0.09091 f_1_global=0.96008 recall_0=0.07143 recall_global=0.96008 precision_0=0.12500 precision_global=0.96008 
+PRETRAIN=7 Loss_CL=0.06233 Loss_M=0.00000 Loss_Total=0.12466 Accuracy_CL=0.98400 f_1_0=0.00000 f_1_global=0.96806 recall_0=0.00000 recall_global=0.96806 precision_0=0.00000 precision_global=0.96806 
+PRETRAIN=8 Loss_CL=0.07344 Loss_M=0.00000 Loss_Total=0.14688 Accuracy_CL=0.98400 f_1_0=0.11111 f_1_global=0.96806 recall_0=0.07143 recall_global=0.96806 precision_0=0.25000 precision_global=0.96806 
+TEST Loss_CL=0.28608 Accuracy_CL=0.94619 f_1_0=0.05042 f_1_global=0.94596 recall_0=0.03488 recall_global=0.94596 precision_0=0.09091 precision_global=0.94596 
+PRETRAIN=9 Loss_CL=0.04838 Loss_M=0.00000 Loss_Total=0.09677 Accuracy_CL=0.98900 f_1_0=0.42105 f_1_global=0.97804 recall_0=0.28571 recall_global=0.97804 precision_0=0.80000 precision_global=0.97804 
+PRETRAIN=10 Loss_CL=0.22302 Loss_M=0.00000 Loss_Total=0.44604 Accuracy_CL=0.98600 f_1_0=0.22222 f_1_global=0.97206 recall_0=0.14286 recall_global=0.97206 precision_0=0.50000 precision_global=0.97206 
+PRETRAIN=11 Loss_CL=0.04507 Loss_M=0.00000 Loss_Total=0.09014 Accuracy_CL=0.98800 f_1_0=0.33333 f_1_global=0.97605 recall_0=0.21429 recall_global=0.97605 precision_0=0.75000 precision_global=0.97605 
+PRETRAIN=12 Loss_CL=0.04958 Loss_M=0.00000 Loss_Total=0.09915 Accuracy_CL=0.98300 f_1_0=0.19048 f_1_global=0.96607 recall_0=0.14286 recall_global=0.96607 precision_0=0.28571 precision_global=0.96607 
+TEST Loss_CL=0.28768 Accuracy_CL=0.95048 f_1_0=0.00000 f_1_global=0.95026 recall_0=0.00000 recall_global=0.95026 precision_0=0.00000 precision_global=0.95026 
+PRETRAIN=13 Loss_CL=0.03650 Loss_M=0.00000 Loss_Total=0.07299 Accuracy_CL=0.98800 f_1_0=0.40000 f_1_global=0.97605 recall_0=0.28571 recall_global=0.97605 precision_0=0.66667 precision_global=0.97605 
+PRETRAIN=14 Loss_CL=0.04070 Loss_M=0.00000 Loss_Total=0.08139 Accuracy_CL=0.99100 f_1_0=0.57143 f_1_global=0.98204 recall_0=0.42857 recall_global=0.98204 precision_0=0.85714 precision_global=0.98204 
+TRAIN=15 Loss_CL=0.03523 Loss_M=0.00000 Loss_Total=0.07047 Accuracy_CL=0.98900 f_1_0=0.35294 f_1_global=0.97804 recall_0=0.21429 recall_global=0.97804 precision_0=1.00000 precision_global=0.97804 
+TRAIN=16 Loss_CL=0.03288 Loss_M=0.22326 Loss_Total=0.28903 Accuracy_CL=0.99000 f_1_0=0.50000 f_1_global=0.98004 recall_0=0.35714 recall_global=0.98004 precision_0=0.83333 precision_global=0.98004 
+TEST Loss_CL=0.28429 Accuracy_CL=0.95524 f_1_0=0.02083 f_1_global=0.95505 recall_0=0.01163 recall_global=0.95505 precision_0=0.10000 precision_global=0.95505 
+TRAIN=17 Loss_CL=0.02288 Loss_M=0.21723 Loss_Total=0.26298 Accuracy_CL=0.99100 f_1_0=0.52632 f_1_global=0.98204 recall_0=0.35714 recall_global=0.98204 precision_0=1.00000 precision_global=0.98204 
+TRAIN=18 Loss_CL=0.03241 Loss_M=0.20921 Loss_Total=0.27403 Accuracy_CL=0.99000 f_1_0=0.54545 f_1_global=0.98004 recall_0=0.42857 recall_global=0.98004 precision_0=0.75000 precision_global=0.98004 
+TRAIN=19 Loss_CL=0.02418 Loss_M=0.19872 Loss_Total=0.24707 Accuracy_CL=0.99300 f_1_0=0.69565 f_1_global=0.98603 recall_0=0.57143 recall_global=0.98603 precision_0=0.88889 precision_global=0.98603 
+TRAIN=20 Loss_CL=0.02009 Loss_M=0.18542 Loss_Total=0.22560 Accuracy_CL=0.99500 f_1_0=0.78261 f_1_global=0.99002 recall_0=0.64286 recall_global=0.99002 precision_0=1.00000 precision_global=0.99002 
+TEST Loss_CL=0.29330 Accuracy_CL=0.95048 f_1_0=0.00000 f_1_global=0.95026 recall_0=0.00000 recall_global=0.95026 precision_0=0.00000 precision_global=0.95026 
+TRAIN=21 Loss_CL=0.02204 Loss_M=0.16942 Loss_Total=0.21351 Accuracy_CL=0.99400 f_1_0=0.72727 f_1_global=0.98802 recall_0=0.57143 recall_global=0.98802 precision_0=1.00000 precision_global=0.98802 
+TRAIN=22 Loss_CL=0.02055 Loss_M=0.15219 Loss_Total=0.19330 Accuracy_CL=0.99500 f_1_0=0.78261 f_1_global=0.99002 recall_0=0.64286 recall_global=0.99002 precision_0=1.00000 precision_global=0.99002 
+TRAIN=23 Loss_CL=0.02818 Loss_M=0.13464 Loss_Total=0.19101 Accuracy_CL=0.99500 f_1_0=0.78261 f_1_global=0.99002 recall_0=0.64286 recall_global=0.99002 precision_0=1.00000 precision_global=0.99002 
+TRAIN=24 Loss_CL=0.01933 Loss_M=0.11784 Loss_Total=0.15650 Accuracy_CL=0.99300 f_1_0=0.69565 f_1_global=0.98603 recall_0=0.57143 recall_global=0.98603 precision_0=0.88889 precision_global=0.98603 
+TEST Loss_CL=0.25625 Accuracy_CL=0.95333 f_1_0=0.00000 f_1_global=0.95313 recall_0=0.00000 recall_global=0.95313 precision_0=0.00000 precision_global=0.95313 
+TRAIN=25 Loss_CL=0.03482 Loss_M=0.10236 Loss_Total=0.17200 Accuracy_CL=0.99500 f_1_0=0.78261 f_1_global=0.99002 recall_0=0.64286 recall_global=0.99002 precision_0=1.00000 precision_global=0.99002 
+TRAIN=26 Loss_CL=0.03289 Loss_M=0.08900 Loss_Total=0.15477 Accuracy_CL=0.99700 f_1_0=0.88000 f_1_global=0.99401 recall_0=0.78571 recall_global=0.99401 precision_0=1.00000 precision_global=0.99401 
+TRAIN=27 Loss_CL=0.02782 Loss_M=0.07766 Loss_Total=0.13330 Accuracy_CL=0.99400 f_1_0=0.72727 f_1_global=0.98802 recall_0=0.57143 recall_global=0.98802 precision_0=1.00000 precision_global=0.98802 
+TRAIN=28 Loss_CL=0.03061 Loss_M=0.06795 Loss_Total=0.12918 Accuracy_CL=0.99200 f_1_0=0.66667 f_1_global=0.98403 recall_0=0.57143 recall_global=0.98403 precision_0=0.80000 precision_global=0.98403 
+TEST Loss_CL=0.25282 Accuracy_CL=0.95762 f_1_0=0.04301 f_1_global=0.95744 recall_0=0.02326 recall_global=0.95744 precision_0=0.28571 precision_global=0.95744 
+TRAIN=29 Loss_CL=0.03136 Loss_M=0.06141 Loss_Total=0.12412 Accuracy_CL=0.99400 f_1_0=0.72727 f_1_global=0.98802 recall_0=0.57143 recall_global=0.98802 precision_0=1.00000 precision_global=0.98802 
+TRAIN=30 Loss_CL=0.03348 Loss_M=0.05546 Loss_Total=0.12242 Accuracy_CL=0.99500 f_1_0=0.78261 f_1_global=0.99002 recall_0=0.64286 recall_global=0.99002 precision_0=1.00000 precision_global=0.99002 
+TRAIN=31 Loss_CL=0.04188 Loss_M=0.05047 Loss_Total=0.13422 Accuracy_CL=0.99500 f_1_0=0.78261 f_1_global=0.99002 recall_0=0.64286 recall_global=0.99002 precision_0=1.00000 precision_global=0.99002 
+TRAIN=32 Loss_CL=0.03021 Loss_M=0.04723 Loss_Total=0.10765 Accuracy_CL=0.99100 f_1_0=0.52632 f_1_global=0.98204 recall_0=0.35714 recall_global=0.98204 precision_0=1.00000 precision_global=0.98204 
+TEST Loss_CL=0.24354 Accuracy_CL=0.95714 f_1_0=0.04255 f_1_global=0.95696 recall_0=0.02326 recall_global=0.95696 precision_0=0.25000 precision_global=0.95696 
+TRAIN=33 Loss_CL=0.02187 Loss_M=0.04395 Loss_Total=0.08770 Accuracy_CL=0.99500 f_1_0=0.78261 f_1_global=0.99002 recall_0=0.64286 recall_global=0.99002 precision_0=1.00000 precision_global=0.99002 
+TRAIN=34 Loss_CL=0.05811 Loss_M=0.04095 Loss_Total=0.15717 Accuracy_CL=0.99400 f_1_0=0.75000 f_1_global=0.98802 recall_0=0.64286 recall_global=0.98802 precision_0=0.90000 precision_global=0.98802 
+TRAIN=35 Loss_CL=0.04732 Loss_M=0.03956 Loss_Total=0.13419 Accuracy_CL=0.99600 f_1_0=0.83333 f_1_global=0.99202 recall_0=0.71429 recall_global=0.99202 precision_0=1.00000 precision_global=0.99202 
+TRAIN=36 Loss_CL=0.03627 Loss_M=0.03743 Loss_Total=0.10997 Accuracy_CL=0.99400 f_1_0=0.72727 f_1_global=0.98802 recall_0=0.57143 recall_global=0.98802 precision_0=1.00000 precision_global=0.98802 
+TEST Loss_CL=0.25194 Accuracy_CL=0.95905 f_1_0=0.00000 f_1_global=0.95887 recall_0=0.00000 recall_global=0.95887 precision_0=0.00000 precision_global=0.95887 
+TRAIN=37 Loss_CL=0.01809 Loss_M=0.03561 Loss_Total=0.07179 Accuracy_CL=0.99600 f_1_0=0.83333 f_1_global=0.99202 recall_0=0.71429 recall_global=0.99202 precision_0=1.00000 precision_global=0.99202 
+TRAIN=38 Loss_CL=0.02827 Loss_M=0.03413 Loss_Total=0.09066 Accuracy_CL=0.99300 f_1_0=0.66667 f_1_global=0.98603 recall_0=0.50000 recall_global=0.98603 precision_0=1.00000 precision_global=0.98603 
+TRAIN=39 Loss_CL=0.02259 Loss_M=0.03286 Loss_Total=0.07804 Accuracy_CL=0.99600 f_1_0=0.83333 f_1_global=0.99202 recall_0=0.71429 recall_global=0.99202 precision_0=1.00000 precision_global=0.99202 
+TRAIN=40 Loss_CL=0.01654 Loss_M=0.03170 Loss_Total=0.06478 Accuracy_CL=0.99500 f_1_0=0.78261 f_1_global=0.99002 recall_0=0.64286 recall_global=0.99002 precision_0=1.00000 precision_global=0.99002 
+TEST Loss_CL=0.25167 Accuracy_CL=0.95714 f_1_0=0.00000 f_1_global=0.95696 recall_0=0.00000 recall_global=0.95696 precision_0=0.00000 precision_global=0.95696 
+TRAIN=41 Loss_CL=0.01620 Loss_M=0.03070 Loss_Total=0.06309 Accuracy_CL=0.99700 f_1_0=0.88000 f_1_global=0.99401 recall_0=0.78571 recall_global=0.99401 precision_0=1.00000 precision_global=0.99401 
+TRAIN=42 Loss_CL=0.03253 Loss_M=0.02947 Loss_Total=0.09454 Accuracy_CL=0.99700 f_1_0=0.88000 f_1_global=0.99401 recall_0=0.78571 recall_global=0.99401 precision_0=1.00000 precision_global=0.99401 
+TRAIN=43 Loss_CL=0.01435 Loss_M=0.02861 Loss_Total=0.05731 Accuracy_CL=0.99700 f_1_0=0.88000 f_1_global=0.99401 recall_0=0.78571 recall_global=0.99401 precision_0=1.00000 precision_global=0.99401 
+TRAIN=44 Loss_CL=0.01388 Loss_M=0.02792 Loss_Total=0.05568 Accuracy_CL=0.99700 f_1_0=0.88000 f_1_global=0.99401 recall_0=0.78571 recall_global=0.99401 precision_0=1.00000 precision_global=0.99401 
+TEST Loss_CL=0.25873 Accuracy_CL=0.95810 f_1_0=0.00000 f_1_global=0.95791 recall_0=0.00000 recall_global=0.95791 precision_0=0.00000 precision_global=0.95791 
+TRAIN=45 Loss_CL=0.01552 Loss_M=0.02652 Loss_Total=0.05756 Accuracy_CL=0.99800 f_1_0=0.92308 f_1_global=0.99601 recall_0=0.85714 recall_global=0.99601 precision_0=1.00000 precision_global=0.99601 
+TRAIN=46 Loss_CL=0.02015 Loss_M=0.02534 Loss_Total=0.06564 Accuracy_CL=0.99700 f_1_0=0.88889 f_1_global=0.99401 recall_0=0.85714 recall_global=0.99401 precision_0=0.92308 precision_global=0.99401 
+TRAIN=47 Loss_CL=0.01392 Loss_M=0.02509 Loss_Total=0.05292 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TRAIN=48 Loss_CL=0.00936 Loss_M=0.02391 Loss_Total=0.04262 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TEST Loss_CL=0.25638 Accuracy_CL=0.95857 f_1_0=0.00000 f_1_global=0.95839 recall_0=0.00000 recall_global=0.95839 precision_0=0.00000 precision_global=0.95839 
+TRAIN=49 Loss_CL=0.01081 Loss_M=0.02299 Loss_Total=0.04462 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TRAIN=50 Loss_CL=0.00881 Loss_M=0.02208 Loss_Total=0.03971 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TRAIN=51 Loss_CL=0.01040 Loss_M=0.02142 Loss_Total=0.04222 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TRAIN=52 Loss_CL=0.00787 Loss_M=0.02094 Loss_Total=0.03668 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TEST Loss_CL=0.27557 Accuracy_CL=0.95762 f_1_0=0.00000 f_1_global=0.95744 recall_0=0.00000 recall_global=0.95744 precision_0=0.00000 precision_global=0.95744 
+TRAIN=53 Loss_CL=0.01250 Loss_M=0.01998 Loss_Total=0.04499 Accuracy_CL=0.99800 f_1_0=0.92308 f_1_global=0.99601 recall_0=0.85714 recall_global=0.99601 precision_0=1.00000 precision_global=0.99601 
+TRAIN=54 Loss_CL=0.01023 Loss_M=0.01962 Loss_Total=0.04008 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TRAIN=55 Loss_CL=0.00676 Loss_M=0.01925 Loss_Total=0.03277 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TRAIN=56 Loss_CL=0.00802 Loss_M=0.01888 Loss_Total=0.03493 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.28465 Accuracy_CL=0.95810 f_1_0=0.00000 f_1_global=0.95791 recall_0=0.00000 recall_global=0.95791 precision_0=0.00000 precision_global=0.95791 
+TRAIN=57 Loss_CL=0.00651 Loss_M=0.01797 Loss_Total=0.03099 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=58 Loss_CL=0.00651 Loss_M=0.01775 Loss_Total=0.03077 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=59 Loss_CL=0.00628 Loss_M=0.01755 Loss_Total=0.03011 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TRAIN=60 Loss_CL=0.00438 Loss_M=0.01686 Loss_Total=0.02562 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.31009 Accuracy_CL=0.95810 f_1_0=0.00000 f_1_global=0.95791 recall_0=0.00000 recall_global=0.95791 precision_0=0.00000 precision_global=0.95791 
+TRAIN=61 Loss_CL=0.00606 Loss_M=0.01605 Loss_Total=0.02818 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=62 Loss_CL=0.00670 Loss_M=0.01562 Loss_Total=0.02901 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=63 Loss_CL=0.00501 Loss_M=0.01501 Loss_Total=0.02503 Accuracy_CL=0.99900 f_1_0=0.96296 f_1_global=0.99800 recall_0=0.92857 recall_global=0.99800 precision_0=1.00000 precision_global=0.99800 
+TRAIN=64 Loss_CL=0.00381 Loss_M=0.01454 Loss_Total=0.02216 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.29947 Accuracy_CL=0.95810 f_1_0=0.00000 f_1_global=0.95791 recall_0=0.00000 recall_global=0.95791 precision_0=0.00000 precision_global=0.95791 
+TRAIN=65 Loss_CL=0.00348 Loss_M=0.01411 Loss_Total=0.02106 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=66 Loss_CL=0.00455 Loss_M=0.01362 Loss_Total=0.02272 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=67 Loss_CL=0.00339 Loss_M=0.01341 Loss_Total=0.02019 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=68 Loss_CL=0.00427 Loss_M=0.01297 Loss_Total=0.02151 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.31351 Accuracy_CL=0.95905 f_1_0=0.02273 f_1_global=0.95887 recall_0=0.01163 recall_global=0.95887 precision_0=0.50000 precision_global=0.95887 
+TRAIN=69 Loss_CL=0.00331 Loss_M=0.01287 Loss_Total=0.01950 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=70 Loss_CL=0.00295 Loss_M=0.01225 Loss_Total=0.01815 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=71 Loss_CL=0.00267 Loss_M=0.01201 Loss_Total=0.01736 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=72 Loss_CL=0.00377 Loss_M=0.01163 Loss_Total=0.01918 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.32829 Accuracy_CL=0.95810 f_1_0=0.00000 f_1_global=0.95791 recall_0=0.00000 recall_global=0.95791 precision_0=0.00000 precision_global=0.95791 
+TRAIN=73 Loss_CL=0.00266 Loss_M=0.01152 Loss_Total=0.01685 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=74 Loss_CL=0.00232 Loss_M=0.01091 Loss_Total=0.01556 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=75 Loss_CL=0.00335 Loss_M=0.01065 Loss_Total=0.01735 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=76 Loss_CL=0.00259 Loss_M=0.01051 Loss_Total=0.01570 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.33382 Accuracy_CL=0.95762 f_1_0=0.00000 f_1_global=0.95744 recall_0=0.00000 recall_global=0.95744 precision_0=0.00000 precision_global=0.95744 
+TRAIN=77 Loss_CL=0.00204 Loss_M=0.01036 Loss_Total=0.01444 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=78 Loss_CL=0.00157 Loss_M=0.00994 Loss_Total=0.01308 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=79 Loss_CL=0.00231 Loss_M=0.00933 Loss_Total=0.01395 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=80 Loss_CL=0.00139 Loss_M=0.00912 Loss_Total=0.01190 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.35685 Accuracy_CL=0.95857 f_1_0=0.00000 f_1_global=0.95839 recall_0=0.00000 recall_global=0.95839 precision_0=0.00000 precision_global=0.95839 
+TRAIN=81 Loss_CL=0.00196 Loss_M=0.00867 Loss_Total=0.01259 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=82 Loss_CL=0.00255 Loss_M=0.00851 Loss_Total=0.01362 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=83 Loss_CL=0.00197 Loss_M=0.00845 Loss_Total=0.01238 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=84 Loss_CL=0.00151 Loss_M=0.00817 Loss_Total=0.01120 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.37059 Accuracy_CL=0.95857 f_1_0=0.00000 f_1_global=0.95839 recall_0=0.00000 recall_global=0.95839 precision_0=0.00000 precision_global=0.95839 
+TRAIN=85 Loss_CL=0.00237 Loss_M=0.00810 Loss_Total=0.01283 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=86 Loss_CL=0.00214 Loss_M=0.00788 Loss_Total=0.01216 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=87 Loss_CL=0.00100 Loss_M=0.00772 Loss_Total=0.00972 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=88 Loss_CL=0.00131 Loss_M=0.00739 Loss_Total=0.01001 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.36694 Accuracy_CL=0.95714 f_1_0=0.02174 f_1_global=0.95696 recall_0=0.01163 recall_global=0.95696 precision_0=0.16667 precision_global=0.95696 
+TRAIN=89 Loss_CL=0.00107 Loss_M=0.00714 Loss_Total=0.00928 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=90 Loss_CL=0.00113 Loss_M=0.00695 Loss_Total=0.00920 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=91 Loss_CL=0.00104 Loss_M=0.00676 Loss_Total=0.00885 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=92 Loss_CL=0.00096 Loss_M=0.00656 Loss_Total=0.00847 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.38682 Accuracy_CL=0.95857 f_1_0=0.00000 f_1_global=0.95839 recall_0=0.00000 recall_global=0.95839 precision_0=0.00000 precision_global=0.95839 
+TRAIN=93 Loss_CL=0.00117 Loss_M=0.00629 Loss_Total=0.00862 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=94 Loss_CL=0.00084 Loss_M=0.00621 Loss_Total=0.00788 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=95 Loss_CL=0.00095 Loss_M=0.00607 Loss_Total=0.00797 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=96 Loss_CL=0.00083 Loss_M=0.00586 Loss_Total=0.00751 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.40256 Accuracy_CL=0.95714 f_1_0=0.00000 f_1_global=0.95696 recall_0=0.00000 recall_global=0.95696 precision_0=0.00000 precision_global=0.95696 
+TRAIN=97 Loss_CL=0.00074 Loss_M=0.00572 Loss_Total=0.00720 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=98 Loss_CL=0.00077 Loss_M=0.00558 Loss_Total=0.00711 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=99 Loss_CL=0.00093 Loss_M=0.00542 Loss_Total=0.00728 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=100 Loss_CL=0.00067 Loss_M=0.00530 Loss_Total=0.00664 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.40827 Accuracy_CL=0.95810 f_1_0=0.00000 f_1_global=0.95791 recall_0=0.00000 recall_global=0.95791 precision_0=0.00000 precision_global=0.95791 
+TRAIN=101 Loss_CL=0.00068 Loss_M=0.00512 Loss_Total=0.00649 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=102 Loss_CL=0.00076 Loss_M=0.00501 Loss_Total=0.00653 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=103 Loss_CL=0.00094 Loss_M=0.00498 Loss_Total=0.00687 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=104 Loss_CL=0.00052 Loss_M=0.00484 Loss_Total=0.00588 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.41674 Accuracy_CL=0.95810 f_1_0=0.00000 f_1_global=0.95791 recall_0=0.00000 recall_global=0.95791 precision_0=0.00000 precision_global=0.95791 
+TRAIN=105 Loss_CL=0.00060 Loss_M=0.00469 Loss_Total=0.00589 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=106 Loss_CL=0.00051 Loss_M=0.00451 Loss_Total=0.00554 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=107 Loss_CL=0.00062 Loss_M=0.00451 Loss_Total=0.00576 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=108 Loss_CL=0.00065 Loss_M=0.00441 Loss_Total=0.00572 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.42036 Accuracy_CL=0.95714 f_1_0=0.00000 f_1_global=0.95696 recall_0=0.00000 recall_global=0.95696 precision_0=0.00000 precision_global=0.95696 
+TRAIN=109 Loss_CL=0.00063 Loss_M=0.00433 Loss_Total=0.00559 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=110 Loss_CL=0.00045 Loss_M=0.00417 Loss_Total=0.00507 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=111 Loss_CL=0.00042 Loss_M=0.00404 Loss_Total=0.00488 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=112 Loss_CL=0.00054 Loss_M=0.00392 Loss_Total=0.00499 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.43581 Accuracy_CL=0.95810 f_1_0=0.00000 f_1_global=0.95791 recall_0=0.00000 recall_global=0.95791 precision_0=0.00000 precision_global=0.95791 
+TRAIN=113 Loss_CL=0.00038 Loss_M=0.00388 Loss_Total=0.00464 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=114 Loss_CL=0.00062 Loss_M=0.00379 Loss_Total=0.00502 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=115 Loss_CL=0.00039 Loss_M=0.00371 Loss_Total=0.00449 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=116 Loss_CL=0.00038 Loss_M=0.00361 Loss_Total=0.00436 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.43906 Accuracy_CL=0.95667 f_1_0=0.00000 f_1_global=0.95648 recall_0=0.00000 recall_global=0.95648 precision_0=0.00000 precision_global=0.95648 
+TRAIN=117 Loss_CL=0.00033 Loss_M=0.00354 Loss_Total=0.00419 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=118 Loss_CL=0.00029 Loss_M=0.00341 Loss_Total=0.00399 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=119 Loss_CL=0.00045 Loss_M=0.00332 Loss_Total=0.00423 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=120 Loss_CL=0.00030 Loss_M=0.00328 Loss_Total=0.00387 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.42958 Accuracy_CL=0.95619 f_1_0=0.00000 f_1_global=0.95600 recall_0=0.00000 recall_global=0.95600 precision_0=0.00000 precision_global=0.95600 
+TRAIN=121 Loss_CL=0.00028 Loss_M=0.00317 Loss_Total=0.00372 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=122 Loss_CL=0.00033 Loss_M=0.00312 Loss_Total=0.00378 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=123 Loss_CL=0.00037 Loss_M=0.00304 Loss_Total=0.00378 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=124 Loss_CL=0.00032 Loss_M=0.00295 Loss_Total=0.00360 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.45463 Accuracy_CL=0.95667 f_1_0=0.02151 f_1_global=0.95648 recall_0=0.01163 recall_global=0.95648 precision_0=0.14286 precision_global=0.95648 
+TRAIN=125 Loss_CL=0.00023 Loss_M=0.00289 Loss_Total=0.00335 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=126 Loss_CL=0.00035 Loss_M=0.00283 Loss_Total=0.00352 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=127 Loss_CL=0.00021 Loss_M=0.00277 Loss_Total=0.00318 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=128 Loss_CL=0.00027 Loss_M=0.00272 Loss_Total=0.00326 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.46435 Accuracy_CL=0.95619 f_1_0=0.02128 f_1_global=0.95600 recall_0=0.01163 recall_global=0.95600 precision_0=0.12500 precision_global=0.95600 
+TRAIN=129 Loss_CL=0.00019 Loss_M=0.00265 Loss_Total=0.00303 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=130 Loss_CL=0.00019 Loss_M=0.00254 Loss_Total=0.00292 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=131 Loss_CL=0.00033 Loss_M=0.00255 Loss_Total=0.00321 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=132 Loss_CL=0.00022 Loss_M=0.00250 Loss_Total=0.00293 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.49353 Accuracy_CL=0.95810 f_1_0=0.04348 f_1_global=0.95791 recall_0=0.02326 recall_global=0.95791 precision_0=0.33333 precision_global=0.95791 
+TRAIN=133 Loss_CL=0.00015 Loss_M=0.00243 Loss_Total=0.00272 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=134 Loss_CL=0.00025 Loss_M=0.00237 Loss_Total=0.00287 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=135 Loss_CL=0.00012 Loss_M=0.00237 Loss_Total=0.00262 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=136 Loss_CL=0.00020 Loss_M=0.00230 Loss_Total=0.00269 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.49762 Accuracy_CL=0.95619 f_1_0=0.00000 f_1_global=0.95600 recall_0=0.00000 recall_global=0.95600 precision_0=0.00000 precision_global=0.95600 
+TRAIN=137 Loss_CL=0.00021 Loss_M=0.00227 Loss_Total=0.00269 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=138 Loss_CL=0.00014 Loss_M=0.00221 Loss_Total=0.00249 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=139 Loss_CL=0.00015 Loss_M=0.00215 Loss_Total=0.00245 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=140 Loss_CL=0.00026 Loss_M=0.00212 Loss_Total=0.00264 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.49876 Accuracy_CL=0.95667 f_1_0=0.02151 f_1_global=0.95648 recall_0=0.01163 recall_global=0.95648 precision_0=0.14286 precision_global=0.95648 
+TRAIN=141 Loss_CL=0.00015 Loss_M=0.00210 Loss_Total=0.00240 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=142 Loss_CL=0.00014 Loss_M=0.00204 Loss_Total=0.00232 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=143 Loss_CL=0.00011 Loss_M=0.00200 Loss_Total=0.00222 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=144 Loss_CL=0.00013 Loss_M=0.00194 Loss_Total=0.00220 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.50785 Accuracy_CL=0.95524 f_1_0=0.02083 f_1_global=0.95505 recall_0=0.01163 recall_global=0.95505 precision_0=0.10000 precision_global=0.95505 
+TRAIN=145 Loss_CL=0.00021 Loss_M=0.00190 Loss_Total=0.00232 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=146 Loss_CL=0.00014 Loss_M=0.00194 Loss_Total=0.00223 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=147 Loss_CL=0.00014 Loss_M=0.00191 Loss_Total=0.00220 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=148 Loss_CL=0.00011 Loss_M=0.00185 Loss_Total=0.00207 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TEST Loss_CL=0.53373 Accuracy_CL=0.95810 f_1_0=0.04348 f_1_global=0.95791 recall_0=0.02326 recall_global=0.95791 precision_0=0.33333 precision_global=0.95791 
+TRAIN=149 Loss_CL=0.00012 Loss_M=0.00183 Loss_Total=0.00208 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
+TRAIN=150 Loss_CL=0.00008 Loss_M=0.00179 Loss_Total=0.00195 Accuracy_CL=1.00000 f_1_0=1.00000 f_1_global=1.00000 recall_0=1.00000 recall_global=1.00000 precision_0=1.00000 precision_global=1.00000 
